@@ -1,0 +1,10 @@
+zoomcamp ML
+
+Homework 1:
+1- pandas 3.0.6
+2- 10000
+3- 3
+4- 2
+5- 41.2
+6- Yes, it decreased
+7- 0.369
